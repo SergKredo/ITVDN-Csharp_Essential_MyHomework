@@ -1,0 +1,5 @@
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson1_Homework_\Lesson1_Homework\Task2\bin\Debug\Task2.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson1_Homework_\Lesson1_Homework\Task2\bin\Debug\Task2.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson1_Homework_\Lesson1_Homework\Task2\bin\Debug\Task2.pdb
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson1_Homework_\Lesson1_Homework\Task2\obj\Debug\Task2.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson1_Homework_\Lesson1_Homework\Task2\obj\Debug\Task2.pdb
