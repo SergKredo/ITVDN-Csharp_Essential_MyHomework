@@ -1,0 +1,7 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\bin\Debug\Task3_trenagor.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\bin\Debug\Task3_trenagor.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\bin\Debug\Task3_trenagor.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\obj\Debug\Task3_trenagor.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\obj\Debug\Task3_trenagor.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\obj\Debug\Task3_trenagor.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson2_Homework\Lesson2\Task3_trenagor\obj\Debug\Task3_trenagor.csprojAssemblyReference.cache
