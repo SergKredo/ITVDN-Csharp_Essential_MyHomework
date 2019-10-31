@@ -1,0 +1,12 @@
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.pdb
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson9_Homework\Lesson9_Homework\Task 3\obj\Debug\Task 3.pdb
