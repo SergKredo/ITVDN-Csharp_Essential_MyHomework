@@ -1,0 +1,7 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.exe.CodeAnalysisLog.xml
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson7_Homework\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.exe.lastcodeanalysissucceeded
