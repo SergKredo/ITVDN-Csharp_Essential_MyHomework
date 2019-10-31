@@ -1,0 +1,6 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\bin\Debug\Task4.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\bin\Debug\Task4.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\bin\Debug\Task4.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\obj\Debug\Task4.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson5_Homework\Lesson5_Homework\Task4\obj\Debug\Task4.pdb
