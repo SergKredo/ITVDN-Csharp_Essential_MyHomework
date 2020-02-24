@@ -1,0 +1,9 @@
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\bin\Debug\WindowsApplication.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\bin\Debug\WindowsApplication.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\bin\Debug\WindowsApplication.pdb
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\Calculator as Windows10.csprojAssemblyReference.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\Calculator_as_Windows10.Properties.Resources.resources
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\Calculator as Windows10.csproj.GenerateResource.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\WindowsApplication.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Calculator\obj\x86\Debug\WindowsApplication.pdb
