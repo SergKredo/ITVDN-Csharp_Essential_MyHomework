@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pngfuel.com.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("stopwatch.ico")]
 
 
