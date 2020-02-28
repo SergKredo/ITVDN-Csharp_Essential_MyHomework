@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="StopWatch by SergKredo" Height="180" Width="350" MinWidth="350" MinHeight="180" MaxWidth="300" MaxHeight="180" Background="#FFC3BDBD" BorderBrush="#FF303030" BorderThickness="0">
     <Window.Icon>
-        <BitmapImage UriSource="file:///D:/Dropbox/Программирование на С%23_ITVDN/csharp-essential-materials_homeworks/Lesson12_Homework/Homework_Lesson12/StopWatch(Task3)/stopwatch.ico"/>
+        <ImageSource>stopwatch.ico</ImageSource>
     </Window.Icon>
     <Grid Background="#FFEAEAF1" Width="500">
         <Grid.ColumnDefinitions>

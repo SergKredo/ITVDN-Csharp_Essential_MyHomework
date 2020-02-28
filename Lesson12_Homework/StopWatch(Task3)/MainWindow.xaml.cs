@@ -29,7 +29,7 @@ namespace StopWatch_Task3_
             InitializeComponent();
             new Presenter(this);
             timer = new DispatcherTimer();  
-            timer.Interval = TimeSpan.FromMilliseconds(1);  // Период времени между тактами (в 1 миллисекунду)
+            timer.Interval = TimeSpan.FromMilliseconds(0.001);  // Период времени между тактами (в 1 миллисекунду)
             timer.Tick += Timer_Tick; // Событие, которое возникает при истечении интервала таймера (повторно вызывает метод-обработчик).
         }
 
