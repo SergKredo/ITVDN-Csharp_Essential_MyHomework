@@ -1,0 +1,6 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\bin\Release\Task4.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\bin\Release\Task4.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\bin\Release\Task4.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\obj\Release\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\obj\Release\Task4.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson13_Homework\Homework_Lesson13\Task4\obj\Release\Task4.pdb

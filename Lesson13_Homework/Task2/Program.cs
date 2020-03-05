@@ -26,6 +26,7 @@ namespace Task2
             {
                 multitask = new Multitask(i * 1000);
                 new Thread(multitask.MyMethod).Start();
+                
             }
 
             Console.ReadKey();
