@@ -1,0 +1,29 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\MainWindow.g.cs
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\App.g.cs
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task_MarkupCompile.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task_MarkupCompile.lref
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\MainWindow.baml
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.g.resources
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional_Task.Properties.Resources.resources
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.csproj.GenerateResource.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.pdb
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.exe.config
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\bin\Debug\Additional Task.pdb
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\App.g.cs
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task_MarkupCompile.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task_MarkupCompile.lref
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\MainWindow.baml
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.g.resources
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional_Task.Properties.Resources.resources
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.csproj.GenerateResource.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.exe
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.csproj.CoreCompileInputs.cache
+D:\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson12_Homework\Homework_Lesson12\Additional Task\obj\Debug\Additional Task.csprojAssemblyReference.cache
