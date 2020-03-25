@@ -1,0 +1,7 @@
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\bin\Debug\Task3.exe.config
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\bin\Debug\Task3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\bin\Debug\Task3.pdb
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\obj\Debug\Task3.exe
+C:\Users\Work\Dropbox\Программирование на С#_ITVDN\csharp-essential-materials_homeworks\Lesson16_Homework\Lesson16_Homework\Task3\obj\Debug\Task3.pdb
