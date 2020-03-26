@@ -54,22 +54,26 @@ namespace Task3
         }
 
         // Глубокое копирование - происходит с помощью создания нового єкземпляра класса House с входящими параметрами конструктора текущего экземпляра
+        // или с использованием MemberwiseClone()
         public object DeepClone()
         {
             // Клонирование с использованием конструктора.
-            return new House(this.City, this.Address) as object;  
+            return new House(this.City, this.Address) as object;
+
+            //или
+            // Клонирование с использованием MemberwiseClone().
+
+                        // Преимущество клонирования с использованием MemberwiseClone() в том, что
+                        // при клонировании не вызывается конструктор, а клонирование происходит через
+                        // копирование дампа памяти - тела оригинала.
+            return this.MemberwiseClone();
         }
 
 
-        // Поверхностное копирование - при котором происходит не инстанцирование экземпляра объекат, а его клонирование. 
+        // Поверхностное копирование - при котором происходит присвоение другому экземпляру объекта ссылки на объект, который мы клонируем. 
         public object Clone()
         {
-            // Клонирование с использованием MemberwiseClone().
-
-            // Преимущество клонирования с использованием MemberwiseClone() в том, что
-            // при клонировании не вызывается конструктор, а клонирование происходит через
-            // копирование дампа памяти - тела оригинала.
-            return this.MemberwiseClone();
+            return this;
         }
 
         //Переопределение метода ToString базового класса Object
@@ -84,32 +88,42 @@ namespace Task3
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.WriteLine(string.Format("Cloning Types:\n".ToUpper()));
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.WriteLine(string.Format(" -  Deep cloning:".ToUpper()));
             House houseOne = new House();
             Console.WriteLine(houseOne);
             House houseTwo = houseOne.DeepClone() as House;
             Console.WriteLine(houseTwo);
-            House houseThree = houseOne;
-            Console.WriteLine(houseThree);
             Console.WriteLine(new string('-', 50));
-
-            // Изменяем houseThree.City (при этом houseTwo.City не изменится)
-            houseThree.City = "Moscow";
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(string.Format(" -  Deep cloning check. Change property houseTwo.City = <Moscow>: ".ToUpper()));
+            // Изменяем houseTwo.City (при этом houseOne.City не изменится)
+            houseTwo.City = "Moscow";
             Console.WriteLine(houseOne);
             Console.WriteLine(houseTwo);
-            Console.WriteLine(houseThree);
 
-            Console.WriteLine(new string('*', 50));
-            Console.WriteLine(houseThree);
-            House houseFour = houseThree.Clone() as House;
-            Console.WriteLine(houseFour);
-            House houseFive = houseThree;
-            Console.WriteLine(houseFive);
+
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.WriteLine(string.Format("\n -  Surface cloning:".ToUpper()));
+            Console.WriteLine(houseOne);
+            houseTwo = houseOne.Clone() as House;
+            Console.WriteLine(houseTwo);
+            
             Console.WriteLine(new string('-', 50));
-
-            houseFive.City = "Harkiv";
-            Console.WriteLine(houseThree);
-            Console.WriteLine(houseFour);
-            Console.WriteLine(houseFive);
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(string.Format(" -  Surface cloning check. Change property houseTwo.City = <Harkiv>: ".ToUpper()));
+            // Изменяем houseTwo.City (при этом houseOne.City тоже изменится)
+            houseTwo.City = "Harkiv";
+            Console.WriteLine(houseOne);
+            Console.WriteLine(houseTwo);
+            
             Console.ReadKey();
 
         }
